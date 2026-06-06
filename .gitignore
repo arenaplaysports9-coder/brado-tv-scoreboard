@@ -1,0 +1,43 @@
+# Sistema Operacional
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# IDEs
+.vscode/
+.idea/
+
+# Node.js (caso seja utilizado futuramente)
+node_modules/
+
+# Arquivos temporários
+*.tmp
+*.temp
+
+# Cache
+.cache/
+
+# Ambiente
+.env
+.env.local
+
+# Arquivos de backup
+*.bak
+*.old
+
+# Configurações locais
+localStorage.json
+
+# Build
+dist/
+build/
+
+# Coverage
+coverage/
+
+# Arquivos ZIP
+*.zip
+*.rar
+*.7z
